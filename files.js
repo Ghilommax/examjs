@@ -1,4 +1,4 @@
-'use Strict'
+"use strict"
 
 /*  You are given the string "143223". In this string are instructions for a return string. 
      *  Each instruction consists of two numbers. The first number describes the number that 
